@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852199720357",
+    "project_id": "socialinfluence-8c25b",
+    "storage_bucket": "socialinfluence-8c25b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852199720357:android:63e97ac787eb284a87d44c",
+        "android_client_info": {
+          "package_name": "com.example.socialinfluence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852199720357-c0g1ichqr8vbstl3lbici9p3p0jgfjea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFnJOIeDb7n3iE_5cojIlV6NfKteacUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852199720357-c0g1ichqr8vbstl3lbici9p3p0jgfjea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
